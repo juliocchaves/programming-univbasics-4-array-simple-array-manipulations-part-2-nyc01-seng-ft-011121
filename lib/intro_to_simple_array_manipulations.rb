@@ -22,4 +22,5 @@ end
 def using_delete_at(array, integer)
   array = ["julio", "nathana", "claudete", "vitoria"]
   integer = 2
+  array.delete_at(integer)
 end
