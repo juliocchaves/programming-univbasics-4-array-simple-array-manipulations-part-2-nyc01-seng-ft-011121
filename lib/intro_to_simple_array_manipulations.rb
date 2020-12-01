@@ -12,3 +12,4 @@ end
 
 def using_flatten(array_1(array_2))
   flat_array = (array_1(array_2)).flatten 
+end
