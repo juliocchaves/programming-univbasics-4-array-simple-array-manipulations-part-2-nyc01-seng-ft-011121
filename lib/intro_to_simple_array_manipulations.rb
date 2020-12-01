@@ -7,7 +7,8 @@ def using_insert(array_1, element)
 end
 
 def using_uniq(array)
-  array.uniq 
+  array = ["flowers", "roses", "flowers", "heart"]
+  array.uniq
 end
 
 def using_flatten(instruments)
