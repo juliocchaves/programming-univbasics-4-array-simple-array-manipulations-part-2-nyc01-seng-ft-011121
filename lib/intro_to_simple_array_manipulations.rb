@@ -17,7 +17,7 @@ def using_flatten(instruments)
 end
 
 def using_delete(array, string)
-  array = ["hello", "welcome", "goodbye"]
+  array = ["Josh", "Steven", "Sophie", "Steven"]
   string = "hello"
   array.delete(string)
 end
