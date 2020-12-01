@@ -7,7 +7,7 @@ def using_insert(array_1, element)
 end
 
 def using_uniq(array)
-  array = ["flowers", "roses", "flowers", "heart"]
+  array = ["Pixie", "Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler"]
   array.uniq
 end
 
