@@ -11,6 +11,6 @@ def using_uniq(array)
 end
 
 def using_flatten(instruments)
-  instruments = ["Saxophone", "Piano", "Trumpet", "Violin", "Drums", "Flute"]]
-  flat_array = private_colleges_in_newyork.flatten
+  instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]]
+  flat_array = .flatten
 end
